@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with Python's data science ecosystem (pandas, scikit-learn, numpy)
 
 ## Contact
-[Basel Mohamed Mostafa Sayed] - [baselmohamed802@gmail.com]
+Basel Mohamed Mostafa Sayed - baselmohamed802@gmail.com
