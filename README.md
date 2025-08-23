@@ -38,4 +38,4 @@ The following picture has all the Model Scores:
 
 ## Model Residuals and Regression Line plots
 The following picture has all the model results visualizations:
-![Model Visualizations](https://github.com/RattleBrattle/NBA-Game-Machine-learning-Regression-Model/blob/main/Images/Model%20Error%20and%20Score%20Evaluation.png?raw=true)
+![Model Visualizations](https://github.com/RattleBrattle/NBA-Game-Machine-learning-Regression-Model/blob/main/Images/Linear%20Regression%20Model%20Visualization.png?raw=true)
