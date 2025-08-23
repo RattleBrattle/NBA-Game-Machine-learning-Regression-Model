@@ -39,3 +39,14 @@ The following picture has all the Model Scores:
 ## Model Residuals and Regression Line plots
 The following picture has all the model results visualizations:
 ![Model Visualizations](https://github.com/RattleBrattle/NBA-Game-Machine-learning-Regression-Model/blob/main/Images/Linear%20Regression%20Model%20Visualization.png?raw=true)
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments & Sources
+- Data sourced from NBA 2K video game series
+- Inspired by sports analytics and machine learning applications
+- Built with Python's data science ecosystem (pandas, scikit-learn, numpy)
+
+## Contact
+[Basel Mohamed Mostafa Sayed] - [baselmohamed802@gmail.com]
